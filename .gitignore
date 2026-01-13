@@ -1,0 +1,19 @@
+
+# Виртуальные окружения Python
+venv/
+.venv/
+
+# Кеши Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Файлы IDE
+.idea/
+.vscode/
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
